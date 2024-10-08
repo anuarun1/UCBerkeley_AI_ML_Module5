@@ -32,3 +32,7 @@ UC Berkeley AI ML Course: Module 5
 - **Lowest Percentage of Coupons Accepted**: Bar with 41.12%
 
 ![TotalCouponAcceptance](https://github.com/user-attachments/assets/1c1c5e3a-beee-4630-b583-14dabf8915ea)
+
+![TotalandAcceptedCoupons](https://github.com/user-attachments/assets/3b93d2eb-c98c-47a0-b3e3-cc180876c33f)
+
+
