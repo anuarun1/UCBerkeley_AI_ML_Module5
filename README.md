@@ -30,3 +30,5 @@ UC Berkeley AI ML Course: Module 5
 - **Overall Acceptance Rate**: 56.84% of the total observations chose to accept the coupon.
 - **Highest Percentage of Coupons Accepted**: Carry out & Take away with 73.6%
 - **Lowest Percentage of Coupons Accepted**: Bar with 41.12%
+
+![TotalCouponAcceptance](https://github.com/user-attachments/assets/1c1c5e3a-beee-4630-b583-14dabf8915ea)
