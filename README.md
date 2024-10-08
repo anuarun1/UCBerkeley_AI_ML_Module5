@@ -102,7 +102,7 @@ UC Berkeley AI ML Course: Module 5
   - Bars had higher acceptance among single men in their 20s without kids and friends as passengers. This narrows down the acceptance rate and the bars might not cost them as much to go by themselves anyway.
   - Both men and women had a similar acceptance rate for Coffee House; they would go only when they had nothing urgent to attend to. Like the Bar coupon, the coffee coupon might not give them significant monetary advantage.
 - General Remark: The coupon with a longer expiration duration of 1 day has a higher acceptance rate than the coupon with a shorter expiration rate of 2 hours.
-- 
+  
 ### Problem Statement #3: What inference can be drawn from the Corelation Matrix
 
 - Temperatue has very low positive corelation with coupon acceptance (0.055): 
