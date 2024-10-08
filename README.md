@@ -77,6 +77,7 @@ UC Berkeley AI ML Course: Module 5
   - Income below 50K has an acceptance rate of 0.43 compared to the acceptance rate of 0.43 for all incomes
 
 ### Problem Statement#1: What are the differences between male and female drivers acceptance rate.
+
 - Female and male acceptance rate: 0.55 and 0.59 respectively
 - More Men accepted the coupon compared to Women by 4 %. Is it because the women have lower buying power. Lets see the difference between the womens and mens income, job and education. What percentage of the data is men and women?
 - In the survery there are actually more women than male (6158) than female (5849)
@@ -86,3 +87,35 @@ UC Berkeley AI ML Course: Module 5
       -It was interesting to see that men and women with "some high school", their income level was below 25K, even though they were in age category ['26' '31' '46']. The ratio of men and women in this category was 50%. Their economic condition explains the higher coupon acceptance rate
 - People with children had a lower acceptance rate of 0.54 compared to the group without children 0.59. 
   
+### Problem Statement#2: Why does Carry away and takeout coupon category have the maximum acceptance rate
+
+- **Regardless of how often drivers took takeaways previously, they all accepted the coupon with a similar rate.**
+  - Interestingly, people who did not get takeaways during a month had the highest acceptance rate of 0.78.
+- **Even with kids as passengers, the acceptance rate was 0.695. Some of these storemight s have drive-through options, which might help with the decision.**
+- **Income did not factor into the decision. Acceptance rate for Carry Away and Take out with, income below 50K and above 50K was 0.75 and 0.72 respectively.**
+- **Widowed people had a higher acceptance rate compared to other marital statuses. People with other marital statuses also had high acceptance rates.**
+- **In rainy weather, the coupon acceptance rate was lowest, followed by snowy days and warm days.**
+  - Even for rainy weather, the coupon acceptance rate was 0.61
+- **When destination is Home: the acceptance is highest at 0.79 compared to acceptance of 0.65 when destination is work**
+- **Having children or not doesnt affect the acceptance rate**
+- **Probably the convenience of Carry Away and Take Out is the reason the acceptance rate is high.**
+  - We may have also developed the habit of takeaways during the Covid pandemic. It will be interesting to see what the data was before and after the pandemic.ndemic.
+- **This is also an essential meal and might be the reason that driver sought out for this more**
+
+### Problem Statement #3: What inference can be drawn from the Corelation Matrix
+
+- Temperatue has very low positive corelation with coupon acceptance (0.055): 
+- Having children has very low negative corelation with coupon acceptance (-0.048)
+- toCoupon_GEQ5min: No corelation
+- toCoupon_GEQ15min: low negative corelation (-0.083)
+- toCoupon_GEQ25min: Moderate negative corelation (-0.1)
+- direction_same: low positive corelation (0.0147)
+- direction_opposite: low negative corelation (-0.0147); same magnitude as direction_same but opposite correlation.
+- If the direction is opposite to the drive direcion, the driver will not accept coupon
+
+### Conclusion and next steps
+
+- Restaurant (<20 USD) and Carry Away Coupons had higher acceptance rate than coffe house, bar and restaurant(20To50USD)
+- One information that is missing in the data set is what is the nature of the coupon. How much percentage off do users get?
+- If we want to improve the traction for Coffee House, Bar and restaurant(20To50USD) we need to understand this metric. Perhaps offering a first free drink or coffee might persuade drivers to accept these coupons more.
+- 
