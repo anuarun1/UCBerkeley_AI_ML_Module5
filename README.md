@@ -42,17 +42,6 @@ UC Berkeley AI ML Course: Module 5
 ![PercAcceptCoupon](https://github.com/user-attachments/assets/7ab54f06-5b27-408b-b314-b7525d154704)
 
 
-### Reasoning as to why Restaurat USD(<$20) and Carry out & Take away might have higher acceptance compared to Coffee House, Bar and Restaurant  :
-- **Restaurat USD(<$20) and Carry out & Take away**
-  - Had high acceptance rates among all attributes including expiration, weather, temperature, passenger, gender, time, destination, age, income, marital status, and having children.
-  - One hypothesis to support this is that everyone needs to eat at some point and are ready to consider cost-effective options like RestaranUSDt (<$20) and Carry out & Take away.
-- **Coffee House**, **Bar**, and **RestUSDurant ($20-50)**
-  - Had lower acceptance rates among all attributes including expiration, weather, temperature, passenger, gender, time, destination, age, income, marital status, and having children.
-  - People may not have time to go to a high-end restaurant on short notice of 1 day. It will cost them a lot more money even with the coupon.
-  - Bars had higher acceptance among single men in their 20s without kids and friends as passengers. This narrows down the acceptance rate and the bars might not cost them as much to go by themselves anyway.
-  - Both men and women had a similar acceptance rate for Coffee House; they would go only when they had nothing urgent to attend to. Like the Bar coupon, the coffee coupon might not give them significant monetary advantage.
-- The coupon with a longer expiration duration of 1 day has a higher acceptance rate than the coupon with a shorter expiration rate of 2 hours.
-
 ### Bar Coupon Observation Summary
 - **41.0% of Bar Coupons were accepted**
 - Acceptance rate of those who went to a bar 3 or fewer times a month: **0.37**
@@ -104,7 +93,16 @@ UC Berkeley AI ML Course: Module 5
 - **Probably the convenience of Carry Away and Take Out is the reason the acceptance rate is high.**
   - We may have also developed the habit of takeaways during the Covid pandemic. It will be interesting to see what the data was before and after the pandemic.ndemic.
 - **This is also an essential meal and might be the reason that driver sought out for this more**
-
+- **Restaurat USD(<$20) and Carry out & Take away**
+  - Had high acceptance rates among all attributes including expiration, weather, temperature, passenger, gender, time, destination, age, income, marital status, and having children.
+  - One hypothesis to support this is that for everyone food is essential and are ready to consider cost-effective options like Restarant (<$20) and Carry out & Take away.
+- **Coffee House**, **Bar**, and **RestUSDurant ($20-50)**
+  - Had lower acceptance rates among all attributes including expiration, weather, temperature, passenger, gender, time, destination, age, income, marital status, and having children.
+  - People may not have time to go to a high-end restaurant on short notice of 1 day. It will cost them a lot more money even with the coupon.
+  - Bars had higher acceptance among single men in their 20s without kids and friends as passengers. This narrows down the acceptance rate and the bars might not cost them as much to go by themselves anyway.
+  - Both men and women had a similar acceptance rate for Coffee House; they would go only when they had nothing urgent to attend to. Like the Bar coupon, the coffee coupon might not give them significant monetary advantage.
+- General Remark: The coupon with a longer expiration duration of 1 day has a higher acceptance rate than the coupon with a shorter expiration rate of 2 hours.
+- 
 ### Problem Statement #3: What inference can be drawn from the Corelation Matrix
 
 - Temperatue has very low positive corelation with coupon acceptance (0.055): 
@@ -118,6 +116,6 @@ UC Berkeley AI ML Course: Module 5
 
 ### Conclusion and next steps
 
-- Restaurant (<20 USD) and Carry Away Coupons had higher acceptance rate than coffe house, bar and restaurant(20To50USD)
+- Restaurant (<20 USD) and Carry Away Coupons had higher acceptance rate than coffee house, bar and restaurant(20To50USD)
 - One information that is missing in the data set is what is the nature of the coupon. How much percentage off do users get?
 - If we want to improve the traction for Coffee House, Bar and restaurant(20To50USD) we need to understand this metric. Perhaps offering a first free drink or coffee might persuade drivers to accept these coupons more.
