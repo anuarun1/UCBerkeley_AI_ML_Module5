@@ -35,4 +35,5 @@ UC Berkeley AI ML Course: Module 5
 
 ![TotalandAcceptedCoupons](https://github.com/user-attachments/assets/3b93d2eb-c98c-47a0-b3e3-cc180876c33f)
 
+![PercAcceptCoupon](https://github.com/user-attachments/assets/1d653c84-0b9b-4391-a2c8-e9a2f0ce34cf)
 
