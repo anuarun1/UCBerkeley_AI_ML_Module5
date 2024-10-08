@@ -12,8 +12,8 @@ UC Berkeley AI ML Course: Module 5
     - **Column 'car' was removed from the analysis.**
     - **For columns 'Bar', 'CoffeeHouse', 'CarryAway', 'RestaurantLessThan20', 'Restaurant20To50', the entries with missing rows were removed from analysis.**
 4. **Estimate the number of duplicate rows. Only 74 rows were duplicates in the dataset of over 12,000 entries. These duplicate rows were removed.**
+![MissingValuesPercent](https://github.com/user-attachments/assets/ef28da3f-1b2e-4125-8b0f-1286234f9d13)
 
-![MissingValuesPercent.png](attachment:cd2516d3-69d0-4fd2-bf92-665a43603128.png)
 
 
 ### Missing Data Summary
