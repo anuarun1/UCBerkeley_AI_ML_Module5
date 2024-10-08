@@ -118,4 +118,3 @@ UC Berkeley AI ML Course: Module 5
 - Restaurant (<20 USD) and Carry Away Coupons had higher acceptance rate than coffe house, bar and restaurant(20To50USD)
 - One information that is missing in the data set is what is the nature of the coupon. How much percentage off do users get?
 - If we want to improve the traction for Coffee House, Bar and restaurant(20To50USD) we need to understand this metric. Perhaps offering a first free drink or coffee might persuade drivers to accept these coupons more.
-- 
