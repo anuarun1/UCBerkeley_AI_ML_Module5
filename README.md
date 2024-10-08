@@ -12,8 +12,8 @@ UC Berkeley AI ML Course: Module 5
     - **Column 'car' was removed from the analysis.**
     - **For columns 'Bar', 'CoffeeHouse', 'CarryAway', 'RestaurantLessThan20', 'Restaurant20To50', the entries with missing rows were removed from analysis.**
 4. **Estimate the number of duplicate rows. Only 74 rows were duplicates in the dataset of over 12,000 entries. These duplicate rows were removed.**
-![MissingValuesPercent](https://github.com/user-attachments/assets/ef28da3f-1b2e-4125-8b0f-1286234f9d13)
 
+![MissingValuesPercent_2](https://github.com/user-attachments/assets/3642c56a-e71e-47d2-997c-a90bcd3a48ab)
 
 
 ### Missing Data Summary
@@ -39,7 +39,7 @@ UC Berkeley AI ML Course: Module 5
 
 ### The Seaborn bar plot function returns the aggregate mean as default. 
 
-![PercAcceptCoupon](https://github.com/user-attachments/assets/1d653c84-0b9b-4391-a2c8-e9a2f0ce34cf)
+![PercAcceptCoupon](https://github.com/user-attachments/assets/7ab54f06-5b27-408b-b314-b7525d154704)
 
 
 ### Reasoning as to why Restaurat USD(<$20) and Carry out & Take away might have higher acceptance compared to Coffee House, Bar and Restaurant  :
@@ -86,6 +86,9 @@ UC Berkeley AI ML Course: Module 5
       -Although both men and women in the category of "some high school" education had the highest acceptance rate
       -It was interesting to see that men and women with "some high school", their income level was below 25K, even though they were in age category ['26' '31' '46']. The ratio of men and women in this category was 50%. Their economic condition explains the higher coupon acceptance rate
 - People with children had a lower acceptance rate of 0.54 compared to the group without children 0.59. 
+
+![gender_education](https://github.com/user-attachments/assets/8541c413-b773-4d0c-a11a-05cd359fe79c)
+
   
 ### Problem Statement#2: Why does Carry away and takeout coupon category have the maximum acceptance rate
 
