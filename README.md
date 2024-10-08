@@ -43,7 +43,6 @@ UC Berkeley AI ML Course: Module 5
 
 
 ### Reasoning as to why Restaurat USD(<$20) and Carry out & Take away might have higher acceptance compared to Coffee House, Bar and Restaurant  :
-- The coupon with a longer expiration duration of 1 day has a higher acceptance rate than the coupon with a shorter expiration rate of 2 hours.
 - **Restaurat USD(<$20) and Carry out & Take away**
   - Had high acceptance rates among all attributes including expiration, weather, temperature, passenger, gender, time, destination, age, income, marital status, and having children.
   - One hypothesis to support this is that everyone needs to eat at some point and are ready to consider cost-effective options like RestaranUSDt (<$20) and Carry out & Take away.
@@ -52,6 +51,7 @@ UC Berkeley AI ML Course: Module 5
   - People may not have time to go to a high-end restaurant on short notice of 1 day. It will cost them a lot more money even with the coupon.
   - Bars had higher acceptance among single men in their 20s without kids and friends as passengers. This narrows down the acceptance rate and the bars might not cost them as much to go by themselves anyway.
   - Both men and women had a similar acceptance rate for Coffee House; they would go only when they had nothing urgent to attend to. Like the Bar coupon, the coffee coupon might not give them significant monetary advantage.
+- The coupon with a longer expiration duration of 1 day has a higher acceptance rate than the coupon with a shorter expiration rate of 2 hours.
 
 ### Bar Coupon Observation Summary
 - **41.0% of Bar Coupons were accepted**
